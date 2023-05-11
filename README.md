@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm Mauro
+My name is Mauro
 
+
+- 🔭 I’m currently working on ..
 <!--
 **msoriano61/msoriano61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=msoriano61&show_icons=true&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoriano61&theme=dracula&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=msoriano61&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoriano61&theme=tokyonight&layout=compact"/>
 </div>
 
 
