@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoriano61&theme=tokyonight&layout=compact"/>
 </div>
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
