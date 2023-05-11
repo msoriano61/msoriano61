@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Me  sou Mauro
 
 <!--
 **msoriano61/msoriano61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dsoriano89&show_icons=true&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoriano61&theme=dracula&layout=compact"/>
+</div>
+
+
