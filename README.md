@@ -2,7 +2,6 @@
 My name is Mauro
 
 
-- 🔭 I’m currently working on ..
 <!--
 **msoriano61/msoriano61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
