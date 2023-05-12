@@ -1,5 +1,6 @@
 
- ### Hi, my name is Mauro
+<img height="150px" src="https://github.com/msoriano61/msoriano61/assets/118784807/d0f9be39-1d7e-4271-9b57-cc95b10733cd"/><br>
+### Hi, my name is Mauro
 
 - 🔭 I am currently updating my old codes. 
 - 🌱 I’m currently learning jQuery, Node.JS, and Vue.Js.
@@ -32,12 +33,13 @@ Here are some ideas to get you started:
 </div>
 
 
+
 <div align="center"><br>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/c6f5601d-ef0f-44f8-bf99-91d06ec30a58"/>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/10b0d313-448b-4a69-937a-53a8ce74514d"/>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/6a686b5e-a0ec-4a5c-add4-21783692fa97"/>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/64d3d50e-e859-46c2-9ee6-cc51a66b2b46"/>
-<img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/a4cb260b-5f51-4713-830a-6b41792ecaae"/>
+<img height="75px" src="https://github.com/msoriano61/msoriano61/assets/118784807/a4cb260b-5f51-4713-830a-6b41792ecaae"/>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/d22a1b7f-dfa7-410c-a949-15ff289be90b"/>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/fb74f2dc-3530-4d77-a998-183ca5cd1136"/>
 <img height="50px" src="https://github.com/msoriano61/msoriano61/assets/118784807/a4189405-898c-4ee0-8907-2ef6a229d8fb"/>
