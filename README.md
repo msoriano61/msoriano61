@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=msoriano61&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoriano61&theme=tokyonight&layout=compact"/>
+  <a href="github.com/msoriano61"/>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=msoriano61&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="github.com/msoriano61"/>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoriano61&theme=tokyonight&layout=compact"/>
+  </a>
 </div>
 
 <div align="center">
